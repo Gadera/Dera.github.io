@@ -8,3 +8,5 @@ Both projects can be accessed in one page as instructed. They are interlinked.
 All necessary files used for the project are also uploaded.
 
 Final work or output can be viewed via the github page link.
+
+https://gadera.github.io/Dera.github.io/
